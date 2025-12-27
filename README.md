@@ -166,8 +166,4 @@ Plots and metrics are saved automatically in `evaluation_results/`.
 
 ---
 
-## ⚡ Author
-
-**Pratham Shah** – AI/ML Engineer  
-Pandit Deendayal Energy University
 
